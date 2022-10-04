@@ -34,7 +34,7 @@ Obeidat et al. (2019)       | [A Collaborative Recommendation System for Online 
 Pan et al. (2021)           | [Application of Collaborative Filtering Recommendation Algorithm in Internet Online Courses](https://dl.acm.org/doi/10.1145/3469968.3469992)
 Yin et al. (2020)           | [A MOOC Courses Recommendation System Based on Learning Behaviours](https://dl.acm.org/doi/10.1145/3393527.3393550)
 
-<img src="https://git.arts.ac.uk/21036265/Personalization_miniproject/blob/main/mini_project/model/model1.jpg" height="750" width="350"> <img src="https://git.arts.ac.uk/21036265/Personalization_miniproject/blob/main/mini_project/model/model2.jpg" height="750" width="350">
+<img src="https://github.com/Yifan-FENG/personalization-ual/blob/main/mini_project/model/model1.jpg" height="750" width="350"> <img src="https://github.com/Yifan-FENG/personalization-ual/blob/main/mini_project/model/model2.jpg" height="750" width="350">
 
 
 ## Main Takeaway
